@@ -32,7 +32,3 @@
   <li>🎓Development of Cross-Platform Applications with a Specialty in Machine Learning, Cesur, Madrid, Spain (2022-2024)</li>
   <li>🎓 Faculty Developer in GeekBrains, Russia (2021 - 2023)</li>
 </ul>
-
-<h3 align="center">📈 GitHub Stats</h3>
-
-<p align="center"><img alt="Blakyyy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Blakyyy&show_icons=true&
