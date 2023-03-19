@@ -26,6 +26,11 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Linux/Unix" src="https://img.shields.io/badge/-Linux%2FUnix-000000?style=flat-square&logo=linux&logoColor=white" />
 </p>
+<h3 align="center">🚀 Projects</h3>
+<ul>
+  <li><strong>Sales and Inventory Management</strong>: A desktop application built using Java Swing that helps manage sales and inventory for a small business.</li>
+  <li><strong>Sign In/Sign Up Form</strong>: A desktop application built using Java Swing and Maven that provides user authentication and registration functionality.</li>
+</ul>
 
 <h3 align="center">📚 Education</h3>
 
