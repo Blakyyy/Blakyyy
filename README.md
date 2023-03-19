@@ -18,7 +18,7 @@
 
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img alt="JUnit" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fjunit-team&psig=AOvVaw1FL9Tpl-UogmvMmm0Hf5Ae&ust=1679277085121000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMi44uLw5v0CFQAAAAAdAAAAABAE" />
+  <img alt="JUnit" src="img alt="JUnit" src="https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
