@@ -20,7 +20,7 @@
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="JUnit" src="https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" />
-  <img alt="Spring Boot" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="30" />
+  <img alt="Spring Boot" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="HTML/CSS" src="https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
